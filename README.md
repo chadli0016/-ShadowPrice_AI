@@ -13,7 +13,7 @@ Cloud API + Web Interface:
 https://shopping-assistant-32565067173.asia-southeast1.run.app/
 
 Project Page (GitHub Pages):  
-https://kevnoel.github.io/ShadowPrice_AI/
+[https://chadli0016.github.io/-ShadowPrice_AI/](https://chadli0016.github.io/-ShadowPrice_AI/)
 
 ---
 
